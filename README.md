@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, MongoDB, NodeJs, ExpressJs**
 
-- 📫 How to reach me **abhishekmaurya.official@gmail,com**
+- 📫 How to reach me **abhishekmaurya.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
