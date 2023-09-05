@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React, MongoDB, NodeJs, ExpressJs**
+- 💬 Ask me about **React, MongoDB, NodeJs, ExpressJs, RecatNative**
 
 - 📫 How to reach me **abhishekmaurya.official@gmail.com**
 
