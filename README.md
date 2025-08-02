@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Machine Learning and AI Engineer from India</h3>
 
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React, MongoDB, NodeJs, ExpressJs, RecatNative**
+- 💬 Ask me about **Machine Learning, Deep Learning, Large Language/Vision Models**
 
 - 📫 How to reach me **abhishekmaurya.official@gmail.com**
 
