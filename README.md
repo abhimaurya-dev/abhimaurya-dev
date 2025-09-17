@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning and AI Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **MLOps/AgenticAI**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Large Language/Vision Models**
 
